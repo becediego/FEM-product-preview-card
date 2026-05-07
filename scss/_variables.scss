@@ -1,0 +1,27 @@
+// ─── Colors ──────────────────────────────────────────────────────────────────
+$color-green-500: hsl(158, 36%, 37%);
+$color-green-700: hsl(158, 42%, 18%);
+$color-black:     hsl(212, 21%, 14%);
+$color-grey:      hsl(228, 12%, 48%);
+$color-cream:     hsl(30, 38%, 92%);
+$color-white:     hsl(0, 0%, 100%);
+
+// ─── Spacing ─────────────────────────────────────────────────────────────────
+$spacing-100: 0.5rem;   // 8px
+$spacing-200: 1rem;     // 16px
+$spacing-300: 1.5rem;   // 24px
+$spacing-400: 2rem;     // 32px
+
+// ─── Typography ──────────────────────────────────────────────────────────────
+$font-montserrat: 'Montserrat', sans-serif;
+$font-fraunces:   'Fraunces', serif;
+
+$fw-medium: 500;
+$fw-bold:   700;
+
+// ─── Breakpoints ─────────────────────────────────────────────────────────────
+$bp-tablet: 37.5em; // ~600px — switches card from vertical to horizontal
+
+// ─── Card ─────────────────────────────────────────────────────────────────────
+$card-radius:    0.5rem;   // 8px
+$card-max-width: 37.5rem;  // ~600px
