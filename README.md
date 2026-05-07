@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-
+![Product preview card component — solution screenshot](./images/screenshot.png)
 
 ### Links
 
